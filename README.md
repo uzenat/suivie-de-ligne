@@ -1,1 +1,1 @@
-# Suivie de ligne - Projet de programmation synchrone
+# Suivie de ligne - SCADE Esterel
